@@ -1,2 +1,2 @@
-This line is from feature1 branch
+This change is from branchB
 
