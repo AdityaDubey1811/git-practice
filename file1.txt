@@ -1,2 +1,2 @@
-This change is from branchB
+This change includes both BranchA and BranchB
 
