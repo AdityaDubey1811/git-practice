@@ -1,2 +1,2 @@
 This change includes both BranchA and BranchB
-This line will be reverted safely
+
